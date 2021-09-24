@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technologies, always innovating and generating ideas, my main skills are building software in Java, Javascript, Python, Flutter, among others. I hold a master degree in Artifitial Intelligence.
+I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technologies, always innovating and generating ideas, my main skills are building software in Java, Javascript, Python, Flutter, among others. I hold a master degree in Artifitial Intelligence, and now preparing me as a Blockchain Engineer.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/christmo">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=christmo&show_icons=true&theme=dark&count_private=true" />
 </a>
 
-- 🔭 I’m  
+- 🔭 I’m really enjoy programing and designing solutions for solving problems, I think build beautiful software requires **knowledge** and **passion**.
 - 🌱 I’m currently learning Solidity in the program of **[Encode Academy](https://www.encode.club/encode-academy) by [Encode Club](https://www.encode.club/)**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
