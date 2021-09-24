@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 
 
 I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technologies, always innovating and generating ideas, my main skills are building software in Java, Javascript, Python, Flutter, among others. I hold a master degree in Artifitial Intelligence.
 
@@ -36,5 +35,5 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 </a>
 
 <a href="https://github.com/christmo/nfts-client">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=christmo&repo=nfts-clients&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=christmo&repo=nfts-client&show_icons=true&theme=dark" />
 </a>
