@@ -26,7 +26,7 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 - 👯 I’m looking to collaborate on Blockchain projects, I'm prepared to develop smart contracts and work with web3, mainly my skills are around backend technologies, but I don't problems to participate full stack.
 - 🤔 I’m looking for help with frontend technologies and design beautifull web sites.
 - 💬 Ask me about software architecture and innovation tecnologies.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo){:target="_blank"}**
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/christmo/dapp-nfts">
