@@ -23,7 +23,7 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 
 - 🔭 I’m really enjoy programing and designing solutions for solving problems, I think build beautiful software requires **knowledge** and **passion**.
 - 🌱 I’m currently learning Solidity in the program of **[Encode Academy](https://www.encode.club/encode-academy) by [Encode Club](https://www.encode.club/)**
-- 👯 I’m looking to collaborate on Blockchain projects, I'm prepared to develop smart contracts and work with web3, mainly my skills are around backend technologies, but I don't problems to participate full stack.
+- 👨🏻‍🔬 I’m looking to collaborate on Blockchain projects, I'm prepared to develop smart contracts and work with web3, mainly my skills are around backend technologies, but I don't problems to participate full stack.
 - 🤔 I’m looking for help with frontend technologies and design beautifull web sites.
 - 💬 Ask me about software architecture and innovation tecnologies.
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo)**
