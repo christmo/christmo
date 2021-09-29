@@ -27,7 +27,7 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 - 🤔 I’m looking for help with frontend technologies and design beautifull web sites.
 - 💬 Ask me about software architecture and innovation tecnologies.
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo)**
-- ⚡ Fun fact: I have more preference for software than hardware, altough I have been started the university studing electronics 🤪
+- ⚡ Fun fact: I have more preference for software than hardware, altough I have been started the university studying electronics 🤪
 
 # Actual Blockchain Projects
 <a href="https://github.com/christmo/dapp-nfts">
