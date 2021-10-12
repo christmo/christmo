@@ -29,7 +29,8 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo)**
 - ⚡ Fun fact: I have more preference for software than hardware, altough I have been started the university studying electronics 🤪
 
-# Actual Blockchain Projects
+# Actual Blockchain Projects 
+DApp NFT mint tokens and save on IPFS: **[Volcano Token - Encode Academy](https://nfts-client.vercel.app/)**
 <a href="https://github.com/christmo/dapp-nfts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=christmo&repo=dapp-nfts&show_icons=true&theme=dark" />
 </a>
