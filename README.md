@@ -29,7 +29,7 @@ I'm a Software|Solutions|Enterprise Architect, specialized in OpenSource technol
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/christmo)**
 - ⚡ Fun fact: I have more preference for software than hardware, altough I have been started the university studying electronics 🤪
 
-DApp NFT,you can mint tokens and publish it from IPFS: **[Volcano Token - Encode Academy](https://nfts-client.vercel.app/)** (It works in Rinkeby TestNet)
+DApp NFT, you can mint tokens and publish it from IPFS: **[Volcano Token - Encode Academy](https://nfts-client.vercel.app/)** (It works on Rinkeby TestNet)
 
 # Actual Blockchain Projects 
 <a href="https://github.com/christmo/dapp-nfts">
